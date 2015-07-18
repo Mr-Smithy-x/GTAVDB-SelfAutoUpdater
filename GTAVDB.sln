@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GTAVDB", "GTAVDB\GTAVDB.csproj", "{6707D268-6AA4-436C-B67C-31450EB4F3C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GTAVDBTest", "GTAVDBTest\GTAVDBTest.csproj", "{5CAD1FF8-B92C-4C7B-BD2A-B498F6CAA49E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GTAVSplitter", "GTAVSplitter\GTAVSplitter.csproj", "{5879C8D9-8D22-48F2-AA7D-E23F1000A6B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6707D268-6AA4-436C-B67C-31450EB4F3C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6707D268-6AA4-436C-B67C-31450EB4F3C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6707D268-6AA4-436C-B67C-31450EB4F3C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6707D268-6AA4-436C-B67C-31450EB4F3C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CAD1FF8-B92C-4C7B-BD2A-B498F6CAA49E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CAD1FF8-B92C-4C7B-BD2A-B498F6CAA49E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CAD1FF8-B92C-4C7B-BD2A-B498F6CAA49E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CAD1FF8-B92C-4C7B-BD2A-B498F6CAA49E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5879C8D9-8D22-48F2-AA7D-E23F1000A6B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5879C8D9-8D22-48F2-AA7D-E23F1000A6B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5879C8D9-8D22-48F2-AA7D-E23F1000A6B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5879C8D9-8D22-48F2-AA7D-E23F1000A6B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
